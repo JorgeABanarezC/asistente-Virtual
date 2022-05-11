@@ -1,2 +1,1 @@
-# jarvis
-Python
+# Asistente virtual con control de aplicaciones
